@@ -1,0 +1,69 @@
+.glass {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+  }
+  
+  .profile_img {
+    border: 4px solid #ddd;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .textbox {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 12px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .test-gray-500 {
+    color: #808080;
+  }
+  
+  .text-gray-500 {
+    color: #808080;
+  }
+  
+  .text-red-500 {
+    color: #dc3545;
+  }
+  
+  .text-xl {
+    font-size: 1.25rem;
+  }
+  
+  .py-20 {
+    padding-top: 5rem;
+  }
+  
+  .py-4 {
+    padding-top: 1rem;
+  }
+  
+  .mb-12 {
+    margin-bottom: 3rem;
+  }
+  input[type='file']{
+    display: none;
+  }
